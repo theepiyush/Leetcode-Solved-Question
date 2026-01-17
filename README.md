@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0415-add-strings) |
 ## Binary Search
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
