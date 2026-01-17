@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0035-search-insert-position) |
+| [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0344-reverse-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 ## Tree
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0176-second-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
