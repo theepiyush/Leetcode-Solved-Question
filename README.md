@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## Sorting
 |  |
