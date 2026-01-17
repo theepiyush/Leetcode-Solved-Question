@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0415-add-strings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
