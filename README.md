@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0415-add-strings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Trie
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Divide and Conquer
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
