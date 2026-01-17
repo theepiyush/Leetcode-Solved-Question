@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -59,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
