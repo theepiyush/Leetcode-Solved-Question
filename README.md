@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
