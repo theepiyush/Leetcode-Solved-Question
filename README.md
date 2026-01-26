@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0415-add-strings) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Divide and Conquer
