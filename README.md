@@ -162,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 ## Database
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
