@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -160,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0100-same-tree) |
 ## Database
 |  |
