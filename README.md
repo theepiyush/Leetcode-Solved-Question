@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
+| [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
+| [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
