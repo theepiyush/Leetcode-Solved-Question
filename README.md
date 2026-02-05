@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0013-roman-to-integer) |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
