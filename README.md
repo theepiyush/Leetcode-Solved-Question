@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
+| [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
+| [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
+| [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
+| [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
 ## Counting Sort
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
