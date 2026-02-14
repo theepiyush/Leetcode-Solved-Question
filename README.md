@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
 | [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0561-array-partition) |
 | [1338-reduce-array-size-to-the-half](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1338-reduce-array-size-to-the-half) |
