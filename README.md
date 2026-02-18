@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
