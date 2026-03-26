@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/0415-add-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1137-n-th-tribonacci-number) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1518-water-bottles](https://github.com/theepiyush/Leetcode-Solved-Question/tree/master/1518-water-bottles) |
 ## Binary Search
 |  |
